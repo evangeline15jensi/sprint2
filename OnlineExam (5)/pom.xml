@@ -12,9 +12,9 @@
 	<artifactId>examportal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>examportal</name>
-	<description>backend code for eaxm portal</description>
+	<description>backend code for exam portal</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
